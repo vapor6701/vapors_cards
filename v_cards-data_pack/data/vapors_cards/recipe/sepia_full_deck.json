@@ -1,0 +1,455 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredient": "minecraft:paper",
+  "ingredients": [
+    "paper",
+    "#minecraft:bundles",
+    "minecraft:diamond_block",
+    "minecraft:ink_sac",
+    [
+      "minecraft:white_terracotta"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:bundle",
+    "components": {
+      "minecraft:item_name": "Sepia Playing Cards",
+      "minecraft:item_model": "vapors_cards:sepia_deck_stack",
+      "minecraft:bundle_contents": [
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [1]},
+            "minecraft:item_name": "Ace of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [2]},
+            "minecraft:item_name": "Two of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [3]},
+            "minecraft:item_name": "Three of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [4]},
+            "minecraft:item_name": "Four of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [5]},
+            "minecraft:item_name": "Five of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [6]},
+            "minecraft:item_name": "Six of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [7]},
+            "minecraft:item_name": "Seven of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [8]},
+            "minecraft:item_name": "Eight of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [9]},
+            "minecraft:item_name": "Nine of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [10]},
+            "minecraft:item_name": "Ten of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [11]},
+            "minecraft:item_name": "Jack of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [12]},
+            "minecraft:item_name": "Queen of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [13]},
+            "minecraft:item_name": "King of Spades"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [14]},
+            "minecraft:item_name": "Ace of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [15]},
+            "minecraft:item_name": "Two of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [16]},
+            "minecraft:item_name": "Three of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [17]},
+            "minecraft:item_name": "Four of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [18]},
+            "minecraft:item_name": "Five of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [19]},
+            "minecraft:item_name": "Six of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [20]},
+            "minecraft:item_name": "Seven of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [21]},
+            "minecraft:item_name": "Eight of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [22]},
+            "minecraft:item_name": "Nine of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [23]},
+            "minecraft:item_name": "Ten of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [24]},
+            "minecraft:item_name": "Jack of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [25]},
+            "minecraft:item_name": "Queen of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [26]},
+            "minecraft:item_name": "King of Diamonds"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [27]},
+            "minecraft:item_name": "Ace of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [28]},
+            "minecraft:item_name": "Two of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [29]},
+            "minecraft:item_name": "Three of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [30]},
+            "minecraft:item_name": "Four of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [31]},
+            "minecraft:item_name": "Five of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [32]},
+            "minecraft:item_name": "Six of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [33]},
+            "minecraft:item_name": "Seven of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [34]},
+            "minecraft:item_name": "Eight of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [35]},
+            "minecraft:item_name": "Nine of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [36]},
+            "minecraft:item_name": "Ten of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [37]},
+            "minecraft:item_name": "Jack of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [38]},
+            "minecraft:item_name": "Queen of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [39]},
+            "minecraft:item_name": "King of Clubs"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [40]},
+            "minecraft:item_name": "Ace of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [41]},
+            "minecraft:item_name": "Two of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [42]},
+            "minecraft:item_name": "Three of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [43]},
+            "minecraft:item_name": "Four of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [44]},
+            "minecraft:item_name": "Five of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [45]},
+            "minecraft:item_name": "Six of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [46]},
+            "minecraft:item_name": "Seven of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [47]},
+            "minecraft:item_name": "Eight of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [48]},
+            "minecraft:item_name": "Nine of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [49]},
+            "minecraft:item_name": "Ten of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [50]},
+            "minecraft:item_name": "Jack of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [51]},
+            "minecraft:item_name": "Queen of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [52]},
+            "minecraft:item_name": "King of Hearts"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [53]},
+            "minecraft:item_name": "Joker"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "components": {
+            "minecraft:item_model": "vapors_cards:sepia_cards",
+            "minecraft:custom_model_data": {"floats": [54]},
+            "minecraft:item_name": "Joker"
+          }
+        }
+      ]
+    },
+    "count": 1
+  }
+}
