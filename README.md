@@ -14,7 +14,7 @@ _Published for version 1.21.7-1.21.8_
 	- Custom Material: White Terracotta
 
 ![Sepia Blank Front](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_blank.png)
-![Sepia Blank Back]((https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_base.png)
+![Sepia Blank Back](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_back.png)
 
 
 
