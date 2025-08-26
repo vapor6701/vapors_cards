@@ -14,7 +14,7 @@ _Published for version 1.21.7-1.21.8_
 	- Custom Material: White Terracotta
 
 ![Sepia Blank Front](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_blank.png)
-![Sepia Blank Back](![z](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_recipe.png%29)
+![Sepia Blank Back]((https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_recipe.png)
 
 
 
@@ -22,7 +22,7 @@ _Published for version 1.21.7-1.21.8_
 **Craft a full 54 card deck (52 playing cards + 2 jokers) in a custom "Deck Pack" bundle. Cards come pre-named.**
 
 ### Sepia
-![Sepia Crafting Recipe](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_recipe.png%29)
+![Sepia Crafting Recipe](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_recipe.png)
 
 ## StoneCutting
 
