@@ -30,13 +30,21 @@ _Published for version 1.21.7-1.21.8_
 - Paper -> [type] blank card
 
 *Blank Cards can be turned into a playing card by changing its custom model data. Works with the [Custom Roleplay Data datapack](https://modrinth.com/datapack/custom-roleplay-data)*
+
 *#1 -> Ace of Spades*
+
 *#2 - #13 -> Spades 2 thru King*
+
 *#14 - #26 -> Diamonds*
+
 *#27 - #39 -> Clubs*
+
 *#40 - #52 -> Hearts*
+
 *#53 -> Black Joker*
-*#53 -> Red Joker*
+
+*#54 -> Red Joker*
+
 
 ## Credits
 Original Artwork made by Blueeyedrat on [itch.io](https://blueeyedrat.itch.io/pixel-assets-playing-cards), which has been modified to work in a minecraft resource pack format
