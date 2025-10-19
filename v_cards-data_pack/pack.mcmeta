@@ -4,6 +4,7 @@
     "author": "vapor6701",
     "contributions": "Cards made from blueeyedrat on itch.io",
     "credit_link": "https://blueeyedrat.itch.io/pixel-assets-playing-cards",
-    "pack_format": 81
+    "min_format": [88, 0],
+    "max_format": [88, 0]
   }
 }
