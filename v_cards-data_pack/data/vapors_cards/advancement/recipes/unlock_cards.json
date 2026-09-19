@@ -20,7 +20,11 @@
   "rewards": {
     "recipes": [
       "vapors_cards:sepia_full_deck",
-      "vapors_cards:sepia_paper_stonecutting"
+      "vapors_cards:sepia_paper_stonecutting",
+      "vapors_cards:r_b_contrast_full_deck",
+      "vapors_cards:r_b_contrast_paper_stonecutting",
+      "vapors_cards:classic_full_deck",
+      "vapors_cards:classic_paper_stonecutting"
     ]
   }
 }

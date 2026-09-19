@@ -1,7 +1,7 @@
 
 # Vapor's Playing Cards
 
-_Published for version 1.21.7-1.21.8_
+_Published for version 1.21.7-26.3_
 
 **Adds playing card decks into the game to play card games with friends!**
 
@@ -11,7 +11,12 @@ _Published for version 1.21.7-1.21.8_
 
 ## Current Decks
 - **Sepia**
-	- Custom Material: White Terracotta
+	- Custom Material: Brown Dye
+- **Red/Blue Contrast**
+	- Custom Material: Red Dye
+- **Classic**
+	- Custom Material: Black Dye
+
 
 ![Sepia Blank Front](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_blank.png)
 ![Sepia Blank Back](https://github.com/vapor6701/vapors_cards/blob/main/git_assets/sepia_back.png)

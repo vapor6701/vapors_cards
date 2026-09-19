@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:paper",
+  "result": {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:item_name": "Classic Card Paper",
+      "minecraft:item_model": "vapors_cards:classic_cards"
+    },
+    "count": 1
+  }
+}
